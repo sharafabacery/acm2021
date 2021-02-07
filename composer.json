@@ -1,0 +1,13 @@
+{
+    "name": "sharaf/hackathon",
+    "authors": [
+        {
+            "name": "sharafabacery",
+            "email": "52586357+sharafabacery@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
